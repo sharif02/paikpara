@@ -1,0 +1,20 @@
+.name
+{
+    color: brown;
+    margin-top: 10px;
+}
+.image{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.cards{
+    background-color: rgb(214, 154, 85);
+    border: none;
+    border-radius: 40px;
+}
+.singlecard{
+    border-radius: 50px;;
+}
